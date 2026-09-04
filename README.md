@@ -50,4 +50,4 @@ The `/docs` folder contains:
 * API Endpoint Plan
 * SQL Database Script
 
-This keeps the same style you wanted and removes the parts you said not to include.
+
