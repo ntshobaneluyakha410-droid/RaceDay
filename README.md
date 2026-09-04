@@ -47,6 +47,15 @@ The ERD is available in the `/docs` folder.
 The `/docs` folder contains:
 
 * RaceDay ERD
+
+* ## References
+
+[1] Microsoft, “SQL Server documentation,” Microsoft Learn, 2026. [Online]. Available: https://learn.microsoft.com/en-us/sql/sql-server/. [Accessed: Sep. 4, 2026].
+
+[2] Microsoft, “ASP.NET Core web API documentation,” Microsoft Learn, 2026. [Online]. Available: https://learn.microsoft.com/en-us/aspnet/core/web-api/. [Accessed: Sep. 4, 2026].
+
+[3] Oracle, “MySQL 8.4 Reference Manual,” Oracle, 2026. [Online]. Available: https://dev.mysql.com/doc/refman/8.4/en/. [Accessed: Sep. 4, 2026].
+
 * API Endpoint Plan
 * SQL Database Script
 
